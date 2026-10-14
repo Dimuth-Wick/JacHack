@@ -1,2 +1,2 @@
 # JacHack
-jaseci hachathon
+jaseci hackathon
